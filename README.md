@@ -1,4 +1,4 @@
-# vuejs-playlist
+# Blogster
 
 > A Vue.js project
 
